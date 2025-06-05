@@ -2,7 +2,7 @@
  * @author falvesmac
  */
 
-package br.com.falves.ColectionsPt1;
+package br.com.falves.CollectionsPt1;
 
 public class ExercicioAcademia {
   private String nome;
