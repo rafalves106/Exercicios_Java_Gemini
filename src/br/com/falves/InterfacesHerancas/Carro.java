@@ -15,7 +15,7 @@ package br.com.falves.InterfacesHerancas;
       super(marca, modelo);
       this.motor = new Motor(260, 2000);
       this.prop = prop;
-      System.out.println("Carro de " + this.prop.getNome() + " criada.");
+      System.out.println("CarroHonda de " + this.prop.getNome() + " criada.");
     }
 
     @Override
